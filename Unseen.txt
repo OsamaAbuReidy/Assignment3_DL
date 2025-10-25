@@ -1,0 +1,96 @@
+DESC:def What is the definition of cosmology ?
+ENTY:animal What is the name of the dog on the Cracker Jack box ?
+DESC:def What are manifest and latent function theories ?
+ENTY:cremat What William Styron book is about a black preacher who leads a slave revolt ?
+ENTY:symbol What is the chemical symbol for nitrogen ?
+HUM:ind Who said : `` Old soldiers never die ; they just fade away '' ?
+HUM:gr What National League baseball team employed 72 third baseemen in its first 2 seasons ?
+DESC:def What are snowballs to a hot-rodder ?
+NUM:dist How long were Tyrannosaurus Rex 's teeth ?
+DESC:desc What is the origin of the word Ozymandias ?
+HUM:ind Who 's the only man to have won the Olympic decathlon twice ?
+LOC:city What Kenyan city is the safari center for East Africa ?
+DESC:reason Why do men snore ?
+DESC:reason What causes `` rolling thunder '' ?
+HUM:ind What is the name of Miss India 1994 ?
+LOC:state What four U.S. states have active volcanoes ?
+DESC:desc What 's the setting of John Le Carre 's A Small Town in Germany ?
+DESC:desc What does an echidna look like ?
+DESC:desc What is the secret of the universe ?
+HUM:ind Who was the second man to walk on the moon ?
+HUM:ind What major Victorian novelist spent as much time working for the post office as he did writing ?
+DESC:reason What caused an adjournment of the 25th anniversary session of the United Nations General Assembly ?
+HUM:gr The major league baseball team in Pittsburgh is called what ?
+ENTY:termeq What is the name of the Islamic counterpart to the Red Cross ?
+NUM:date What year were the Olympic Games played in where Nadia Comaneci became popular ?
+ENTY:substance What is glass made of ?
+DESC:manner How did Lee Harvey Oswald purchase his rifle ?
+DESC:manner How do I sing like Elvis Presley ?
+LOC:other What are the biggest Indian airports ?
+ENTY:cremat What is the folklore story regarding birds ' nests and birds in Christmas trees ?
+LOC:other What are the world 's three largest oceans , in order of size ?
+HUM:ind Who is the Pope ?
+LOC:other Where on the Internet can I find information on laundry detergent ?
+ENTY:termeq What do the French call La Manche ?
+ENTY:techmeth What 's an easy way to count the approximate number of fish in a lake ?
+DESC:manner How do you clean up a cache ?
+ENTY:veh What was the name of Aristotle Onassis 's yacht ?
+ENTY:dismed What is a fear of being dirty ?
+ENTY:animal What animal occurs in Spielberg 's `` Jaws '' ?
+DESC:def What 's the Red Planet ?
+NUM:count The Shea & Gould law firm had an office in L.A. for how many years ?
+HUM:ind What 's the most common surname in America ?
+NUM:period How long does it take the typical American to eat 23 quarts of ice cream ?
+DESC:desc What is the difference between a fruit and a vegetable ?
+ENTY:plant What kind of tree graces Lebanon 's flag ?
+DESC:def What is tumbled marble ?
+ENTY:techmeth What are the various ways in which one can measure IT User Satisfaction Level ?
+LOC:city What city is sometimes called The Athens of Switzerland ?
+LOC:other Where did bocci originate ?
+DESC:manner How does light travel through the void of space if there is no medium for it to ` wave ' or ` pulse ' .
+DESC:def What are the Valdez Principles ?
+DESC:manner How can I easily remove red wine stains from t-shirts ?
+DESC:manner How do you write MLA style bibliographies for an Internet source ?
+HUM:desc Who is Imam Hussain Ben Ali whom Shia people believe in ?
+DESC:desc What is the origin of the word assassinate ?
+LOC:other Where can I find information about Bob Barr , representative from Georgia ?
+NUM:other What is the frequency of VHF ?
+DESC:desc What are the Arabic Numerals from 1 to 10 ?
+ENTY:other What does the policeman become in the Canadian edition of Monopoly ?
+NUM:count How many electoral votes does it take to win presidency ?
+DESC:def What is digitalis ?
+ENTY:plant What kind of flowers does detective Nero Wolfe raise ?
+ENTY:substance What was paper made of in the late 16th century ?
+HUM:desc Who was William Henry Harrison ?
+DESC:desc What was the outcome of the 1945 Yalta Conference ?
+DESC:def What is `` flintknapping '' ?
+ENTY:color What 's the most popular contact lens color ?
+LOC:city What were the cities of Dickens 's A Tale of Two Cities ?
+DESC:reason What causes canker sores in the mouth ?
+NUM:date In what year was the movie the Ten Commandments released ?
+ENTY:animal What is the fastest fish in the world ?
+ENTY:color What color are the castellated walls of the Kremlin ?
+ENTY:event What is celebrated during the week of February 21-27 ?
+ENTY:other What is damage to business and government caused by bureaucracy ?
+LOC:country What countries have the best math students ?
+NUM:date When was the De Beers company founded ?
+ENTY:cremat What was a California prayer book to an Old West gambler ?
+HUM:ind Who was the first black performer to have his own network TV show ?
+ENTY:termeq What 's another name for aspartame ?
+DESC:desc What did John F. Kennedy consider his greatest blunder in office ?
+ABBR:abb What 's the abbreviation for trinitrotoluene ?
+ENTY:animal What creature is the absolute fastest in moving in the world , birds , mammals , etc. , ?
+NUM:date What is the date of Bastille Day ?
+ABBR:exp What is IOC an abbreviation of ?
+DESC:reason What 's the proud claim to fame of the young women who formed Kappa Alpha Theta ?
+ENTY:product Which two products use a tiger as their symbol ?
+LOC:other Where did Freidreich Wilhelm Ludwig Leichhardt , Prussian born explorer , go to school ?
+ENTY:color What color eyes are most sensitive to light ?
+NUM:count How much folic acid should an expectant mother get daily ?
+HUM:gr What company uses the unfamiliar faces of its celebrity spokespeople to promote the use of its product ?
+ENTY:dismed What disease does Katharine Hepburn have that makes her voice shake ?
+DESC:desc What did FCC chairman Newton Minow declare TV to be on May 9 , 1961 ?
+NUM:count How much caffeine is in a 16 oz cup of coffee ?
+ENTY:termeq What is the name of the art of growing miniature trees ?
+LOC:country What two countries in South America are landlocked ?
+DESC:def What does Tiffany mean ?
